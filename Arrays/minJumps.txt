@@ -1,0 +1,6 @@
+*** O(n^2) solution is there but remember O(n) solution ***
+                        O(n)
+    -> get max_reach from any point
+    -> get jumps reqd. to get to that point
+    -> get steps completed from previous point
+    
